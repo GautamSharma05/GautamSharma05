@@ -1,6 +1,9 @@
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1639008000&v=beta&t=BWvsqjIVnIKpjYocWZJQz6CKeyahHC6WDPqE6_Lpo20)](https://khushboogoel01.github.io)
+
 <h1 align="center">Hi 👋, I'm Gautam Sharma</h1>
 <h3 align="center">A passionate developer from India</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamsharma05&label=Profile%20views&color=0e75b6&style=flat" alt="gautamsharma05" /> </p>
 
