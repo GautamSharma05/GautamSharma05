@@ -1,5 +1,3 @@
-[![MasterHead](https://www.canva.com/design/DAEx3g9WpOM/Wwq0_Y62h_aDhTvVffMxdg/view?utm_content=DAEx3g9WpOM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)](https://github.com/GautamSharma05)
-
 <h1 align="center">Hi 👋, I'm Gautam Sharma</h1>
 <h3 align="center">A passionate developer from India</h3>
 
