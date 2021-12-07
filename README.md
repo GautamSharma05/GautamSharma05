@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1639008000&v=beta&t=BWvsqjIVnIKpjYocWZJQz6CKeyahHC6WDPqE6_Lpo20)](https://khushboogoel01.github.io)
+[![MasterHead](https://www.canva.com/design/DAEx3g9WpOM/Wwq0_Y62h_aDhTvVffMxdg/view?utm_content=DAEx3g9WpOM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)](https://github.com/GautamSharma05)
 
 <h1 align="center">Hi 👋, I'm Gautam Sharma</h1>
 <h3 align="center">A passionate developer from India</h3>
