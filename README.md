@@ -1,3 +1,6 @@
+![intro](https://user-images.githubusercontent.com/60997184/145259235-3e6cf769-65bb-440e-83fa-82038f747965.png)
+
+
 <h1 align="center">Hi 👋, I'm Gautam Sharma</h1>
 <h3 align="center">A passionate developer from India</h3>
 
